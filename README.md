@@ -2,7 +2,7 @@
 
 Welcome to my Data Science Portfolio! Here, you'll find a curated showcase of my projects, highlighting my journey and achievements in the field of data analysis and modeling. Dive into detailed summaries that explore the challenges I’ve tackled and the solutions I’ve crafted across various data-centric projects.
 
-### Main Projects
+### Pinned Projects
 
 | Project Link | Date | Language | Area | Project Description |
 |---------|-----------------|-------|---------------------|---------------|
@@ -18,7 +18,9 @@ Welcome to my Data Science Portfolio! Here, you'll find a curated showcase of my
 ### Other Projects 
 | Project Link | Date | Language | Area | Project Description |
 |---------|-----------------|-------|---------------------|---------------|
-
-
+|👩‍🎓[Academic Performance Analysis - DATA2X02](https://github.com/AnabelGeraldine/AcademicPerformanceAnalysis_DATA2X02) | September 2023 | R | ggplot, html | This project analyzes factors influencing academic performance in DATA2X02 students at the University of Sydney, focusing on study habits, sleep patterns, work commitments, and course load. Using RStudio with tidyverse, dplyr, and ggplot2, the data was cleaned, visualized, and statistically analyzed to identify key performance drivers. The findings suggest that study hours, sleep time, and assignment submission habits significantly impact WAM, while factors like social media usage and part-time work show weaker correlations.|
+|💵[Wealth & Health Correlation](https://github.com/AnabelGeraldine/Wealth_Health_Correlation) | October 2022 | Python in spyder | visualization, ML | This project examines the relationship between wealth, health, and social outcomes, focusing on crude death rates, literacy, and suicide rates. Using Python (pandas, scikit-learn, matplotlib), various regression models, including Linear Regression, KNN, and Bayesian Linear Regression, were applied to analyze correlations and predict crude death rates. |
+|💻[Comparative Analysis of Classification Algorithms](https://github.com/AnabelGeraldine/ComparativeAnalysis_of_ClassificationAlgorithms) | May 2024 | Weka & Python | Comparative analysis, ML | This project compares machine learning classifiers like KNN, Naive Bayes, SVM, Decision Trees, and Random Forest to evaluate their predictive performance on two datasets: the Pima Indian Diabetes Dataset and the Room Occupancy Dataset. Using Python and Weka, models were tested with 10-fold cross-validation, and their accuracy was analyzed.|
+|🧮[Derivative Pricing Methods (MC&FD)](https://github.com/AnabelGeraldine/Derivative_Pricing_Methods) | September 2024 |Python | Numpy | This project explores Monte Carlo simulations and Finite Difference Methods (FDM) for pricing financial derivatives, comparing their accuracy and efficiency. Using Python (NumPy, SciPy, Matplotlib), Monte Carlo simulated asset price paths, while FDM numerically solved partial differential equations for option pricing.
 
 
